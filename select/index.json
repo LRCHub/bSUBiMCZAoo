@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "初恋の絵本（feat. 合田美桜 (CV:豊崎愛生)）",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2026-02-13T13:56:54.090510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初恋の絵本 (feat. 合田美桜 (CV:豊崎愛生))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_初恋の絵本_(feat._合田美桜_(CV_豊崎愛生))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初恋の絵本 feat.合田美桜(CV：豊崎愛生)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_初恋の絵本_feat.合田美桜(CV_豊崎愛生)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Re:初恋の絵本 feat. 合田美桜(CV:豊崎愛生)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/03_Re_初恋の絵本_feat._合田美桜(CV_豊崎愛生)_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初恋の絵本 (feat. 96猫)",
+      "artist": "HoneyWorks, 96猫",
+      "has_synced": false,
+      "path": "select/pl_01_初恋の絵本_(feat._96猫)_HoneyWorks,_96猫.txt"
+    }
+  ]
+}
